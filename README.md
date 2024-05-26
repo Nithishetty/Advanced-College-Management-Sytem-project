@@ -1,1 +1,1 @@
-# Advanced-College-Management-Sytem-project
+# Advance-College-Management-Sytem-project
