@@ -1,4 +1,4 @@
-# Advance-College-Management-Sytem-project
+College-Management-Sytem-project
 The main objective of developing a College Management System web application which 
 helps college students and faculties to connect each other. In this web application facilities 
 can upload marks, daily attendance, timetable, fees and they can upload complete syllabus 
